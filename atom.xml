@@ -28,8 +28,8 @@
 &lt;p&gt;3.Java 代码实现 ui&lt;/p&gt;
 &lt;p&gt;4. 使用 Java 代码和 xml 共同实现 ui&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Android" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Android/" />
+        <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+        <category term="Android" scheme="http://myblog.com/categories/computer-science/Android/" />
         <updated>2022-01-08T11:57:41.538Z</updated>
     </entry>
     <entry>
@@ -512,8 +512,8 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
 &lt;p&gt;&lt;strong&gt;对类进行并发控制，需用私有属性来进行定义变量，用锁将方法锁起来，这样就不会出现并发出现异常情况&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Applet 可以显示 Swing 组件，Applet 的主类可以定义为 Applet 类或 JApplet 类的子类，Applet 支持多线程。&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <category term="计算机科学" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Python" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Python/" />
+        <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+        <category term="Python" scheme="http://myblog.com/categories/computer-science/Python/" />
         <updated>2022-01-08T11:48:42.228Z</updated>
     </entry>
     <entry>
@@ -589,8 +589,8 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="计算机科学" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
-        <category term="Java" scheme="http://myblog.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+        <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+        <category term="Java" scheme="http://myblog.com/categories/computer-science/Java/" />
         <updated>2022-01-08T11:39:18.575Z</updated>
     </entry>
     <entry>
