@@ -24,6 +24,8 @@
             <guid isPermalink="true">http://myblog.com/2022/01/23/algorithm/acwing/test/</guid>
             <title>算法测试</title>
             <link>http://myblog.com/2022/01/23/algorithm/acwing/test/</link>
+            <category term="算法基础" scheme="http://myblog.com/categories/algorithm/" />
+            <category term="acwing" scheme="http://myblog.com/categories/algorithm/acwing/" />
             <pubDate>Sun, 23 Jan 2022 09:57:22 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
@@ -262,9 +264,11 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://myblog.com/2022/01/23/computer-network/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</guid>
+            <guid isPermalink="true">http://myblog.com/2022/01/23/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</guid>
             <title>计算机系统组成</title>
-            <link>http://myblog.com/2022/01/23/computer-network/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</link>
+            <link>http://myblog.com/2022/01/23/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</link>
+            <category term="计算机网络" scheme="http://myblog.com/categories/computer-network/" />
+            <category term="计算机系统组成" scheme="http://myblog.com/categories/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/" />
             <pubDate>Sun, 23 Jan 2022 09:52:07 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
@@ -363,6 +367,8 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
             <guid isPermalink="true">http://myblog.com/2022/01/08/algorithm/leetCode/test/</guid>
             <title>算法测试</title>
             <link>http://myblog.com/2022/01/08/algorithm/leetCode/test/</link>
+            <category term="算法基础" scheme="http://myblog.com/categories/algorithm/" />
+            <category term="leetCode" scheme="http://myblog.com/categories/algorithm/leetCode/" />
             <pubDate>Sat, 08 Jan 2022 19:48:55 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
@@ -924,6 +930,8 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
             <guid isPermalink="true">http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
             <title>操作系统</title>
             <link>http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+            <category term="计算机网络" scheme="http://myblog.com/categories/computer-network/" />
+            <category term="OS" scheme="http://myblog.com/categories/computer-network/OS/" />
             <pubDate>Sat, 08 Jan 2022 15:56:13 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
