@@ -8,7 +8,7 @@
     <author>
       <name>My</name>
     </author>
-    <updated>2022-01-23T01:52:07.932Z</updated>
+    <updated>2022-01-23T01:57:22.726Z</updated>
     <category term="Java" />
     <category term="计算机网络" />
     <category term="JavaScript" />
@@ -18,9 +18,250 @@
     <category term="机器学习" />
     <category term="深度学习" />
     <entry>
-        <id>http://myblog.com/2022/01/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</id>
+        <id>http://myblog.com/2022/01/23/algorithm/acwing/test/</id>
+        <title>算法测试</title>
+        <link rel="alternate" href="http://myblog.com/2022/01/23/algorithm/acwing/test/"/>
+        <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;从工程管理角度，软件设计一般分为两步完成，它们是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;概要设计与详细设计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;下列选项中不属于软件生命周期&lt;strong&gt;开发&lt;/strong&gt;阶段任务的是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;软件维护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在数据库系统中，用户所见的数据模式为&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;外模式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据库设计的四个阶段是：需求分析、概念设计、逻辑设计和&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;物理设计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一个算法的空间复杂度大，则其时间复杂度也必定大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在长度为 64 的有序线性表中进行顺序查找，最坏情况下需要比较的次数为&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;64&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;数据库技术的根本目标是要解决数据的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;共享问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在编译 Java 程序时，用于指定生成.class 文件位置的选项是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;- d&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Java Applet 程序的.class 文件不可以用 java 命令运行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;因多线程并发执行而引起的执行顺序的不确定性可能造成执行结果的不确定&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;处理对象传输的接口是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Serializable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在读取二进制数据文件的记录时，为了提高效率常常使用一种辅助类&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;stringbuffer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;可以使当前同级线程重新获得运行机会的方法是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;yield()&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;applet  init -&amp;gt; start -&amp;gt; stop -&amp;gt; destroy -&amp;gt;paint&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;通常情况下，Applet 可以读取系统信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提供 showDocument () 方法，使 Applet 能够请求浏览器访问特定 URL 的类是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;appletContext&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;下列软件系统结构图的宽度为，计算宽度，即从上往下计算出各层中结点数的最大值，3&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224113103009.png&#34; alt=&#34;image-20211224113103009&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;debug 的任务是诊断和改正程序中的错误。&lt;/p&gt;
+&lt;p&gt;一个关系表的行称为元组，列称为字段，也称为域&lt;/p&gt;
+&lt;p&gt;在 Java 中，3.14156D 表示的是 双精度浮点 数。&lt;/p&gt;
+&lt;p&gt;Java 不直接支持多继承，但可以通过 接口 实现多继承。&lt;/p&gt;
+&lt;p&gt;e.printStackTrace();&lt;/p&gt;
+&lt;p&gt;在 java.io 包中有某个类同时实现了 DataInput 接口和 DataOutput 接口，这个类&lt;/p&gt;
+&lt;p&gt;是&lt;a href=&#34;../../java/io/RandomAccessFile.html&#34;&gt; RandomAccessFile&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在 Java 程序中，主线程一般具有 普通或 5 优先级。&lt;/p&gt;
+&lt;p&gt;当实现 Runnable 接口时，要实现的方法是 【14】 。run 方法&lt;/p&gt;
+&lt;p&gt;mouseDragged () 方法是 MouseMotionListener 接口中的抽象方法，该方法的参数&lt;/p&gt;
+&lt;p&gt;是 mouseEvent 类。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224195424446.png&#34; alt=&#34;image-20211224195424446&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有 x 元素   栈顶 top = m +1&lt;/p&gt;
+&lt;p&gt;入栈   top = top - 1&lt;/p&gt;
+&lt;p&gt;出栈  top = top + 1&lt;/p&gt;
+&lt;p&gt;栈空 x=0 ,top = m + 1&lt;/p&gt;
+&lt;p&gt;栈满 x = m , top = 1&lt;/p&gt;
+&lt;p&gt;top = m - x + 1&lt;/p&gt;
+&lt;p&gt;x = m - top + 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;带链队列空时，头指针和尾指针都为 NULL; 队列中只有一个元素时，头指针和尾指针都指向这个元素。&lt;/p&gt;
+&lt;p&gt;当 front (头部) = rear (尾部)  队列满&lt;/p&gt;
+&lt;p&gt;一棵树度 3  共 27 个节点，  度为 3，2，0   结点数 4，1，10&lt;/p&gt;
+&lt;p&gt;其中度为 1 的结点数为&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有 n 个   树中的结点数 = 树中所有结点的度之和 + 1&lt;/p&gt;
+&lt;p&gt;3x4+2x1+0x10+1+nx1=27&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;下列算法中均以比较作为基本运算，则平均情况与最坏情况下的时间复杂度相同的是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在链式存储中的有序表中进行查找&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;按照传统的数据模型分类，数据库系统可分为&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;层次、网状、关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Java 语言的特点有：简单性、面向对象、分布式、健壮性、安全性、平台独立与可移植性、多线程、动态性、解释性等。&lt;br /&gt;
+&lt;strong&gt;但不包含抽象这一特点，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java 命名的约定一：命名名称只能包含：字母、数字和下划线，其中不能用数字作为名称第一个字符。&lt;br /&gt;
+选项 B 错误。&lt;br /&gt;
+Java 命名的约定二：驼峰命名法。&lt;br /&gt;
+即第一个字符小写，其后单词首字母大写。&lt;/p&gt;
+&lt;p&gt;Java 关键字有：abstract、assert、boolean、break、byte、case、catch、char、class、const、continue、default、do、double、else 、enum、extends、final、finally、float、for、goto、if、implements、import、instanceof、int、interface、long、native、new、package、private、protected、public、return 、strictfp、short、static、super、switch、synchronized、this、throw、throws、transient、try、void、volatile、while。&lt;/p&gt;
+&lt;p&gt;类 Car 中的 toString () 直接继承于类 Object，输出 test.toString () 是对象的 hash 值&lt;/p&gt;
+&lt;p&gt;下列选项中不是 WindowListener 接口提供的方法是&lt;strong&gt; WindowDragged&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;windowClosed、windowDeactivated、windowActivated、windowIconified、windowDeiconified、windowOpened、windowClosing。&lt;/p&gt;
+&lt;p&gt;Swing 采用了一种 MVC 的设计范式&lt;strong&gt; MVC 即 Modet - View - Controller, 是模型视图控制器的缩写，模型层用来保存内容，视图层用来展示，控制层用来控制事物。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果要让线程进入可运行状态，可以调用的方法是：start () 方法为进入可运行状态；run () 为运行时状态；sleep () 为休眠状态；wait () 为线程等待状态。&lt;/p&gt;
+&lt;p&gt;深度为 5 的完全二叉树的结点数不可能是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;设完全二叉树的结点数为 n, 根据深度为 k 的二叉树至多有 2 k - 1 个结点，再根据完全二叉树的定义可知，2 k - 1 - 1 &amp;lt; n≤2 k - 1。&lt;br /&gt;
+本题中完全二叉树的深度为 5, 则 2 5 - 1 - 1 &amp;lt; n≤2 5 - 1, 15 &amp;lt; n≤31。&lt;br /&gt;
+因此，结点数不能为 15。&lt;/p&gt;
+&lt;p&gt;结点数为 n 深度为 i 的完全二叉树结点数范围是 2^（i-1）- 1 到 2^i-1 个（左开右闭区间）。&lt;/p&gt;
+&lt;p&gt;2 的 i-1 次方  &amp;lt; n &amp;lt;= 2 的 i 次方 - 1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;支撑软件是介于系统软件和应用软件之间&lt;/strong&gt;，协助用户开发的工具性软件，包括辅助和支持开发和维护应用软件的工具软件，如需求分析软件，设计工具软件，编码工具软件，测试工具软件，维护工具软件等，也包括辅助管理人员控制开发进程和项目管理的工具软件，如计划进度管理工具软件，过程控制工具软件，质量管理及配置管理工具软件等。&lt;br /&gt;
+IOS 系统、数据库管理系统属于系统软件，财务管理系统属于应用软件，Studio.NET 属于支撑软件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;程序调试的任务是设计和运行测试用例&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关系数据模型的三个组成部分：关系的数据结构 (用二维表表示), 关系操纵 (查询、删除、插入、修改), 关系的数据约束 (实体完整性约束、参照完整性约束、用户定义的完整性约束)。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关系模式进行规范化的目的是使关系结构更加合理，消除存储异常，使数据冗余尽量小，便于插入、删除和更新等操作。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;编译 java 代码是把 java 文件编译为 class 文件，由编译器完成，jvm 执行的是 class 文件，执行需要加载，校验，执行&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;! 是逻辑非，|| 是逻辑或，&amp;amp;&amp;amp; 是逻辑与！= 是关系运算符不等于&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;若有语句 Class c0 = Class.forName (&amp;quot;java.util.Date&amp;quot;), 可得到类 Date 的修饰符的方法是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A) c0.getModifiers ()// 获得属性的修饰符，例如 public, static 等&lt;/p&gt;
+&lt;p&gt;B) c0.getSuperclass ()// 获取父类的 Class 对象&lt;/p&gt;
+&lt;p&gt;C) c0.getMethod ()// 获取 Class 对象的方法：D) c0.getDeclaredMethods ()// 返回 Method 对象的一个数组，这些对象反映此 Class 对象表示的类或接口声明的所有方法，包括公共、保护、默认 (包) 访问和私有方法，但不包括继承的方法。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;所有异常的父类均可以为 Exception&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A) Serializable Serializable 接口是启用其序列化功能的接口。&lt;/p&gt;
+&lt;p&gt;B) ObjectInput ObjectInput 扩展 DataInput 接口以包含对象的读操作。&lt;br /&gt;
+DataInput 包括基本类型的输入方法；&lt;br /&gt;
+ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出方法。&lt;/p&gt;
+&lt;p&gt;C) DataInputStream 数据输入流属于 Java 类&lt;/p&gt;
+&lt;p&gt;D) FilenameFilter FilenameFilter 是文件名过滤器，用来过滤不符合规格的 文件名，并返回合格的文件；&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;File 类是 java.io 包中的非流类，它以系统无关的方式描述文件对象的属性。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;File 类只操作文件在磁盘上的属性，而读写文件内容的功能则需要流类提供。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Java 中所有事件对象的基类是 &lt;strong&gt;java.util.EventObject&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在顺序表中查找，最好情况下第一个元素就是要查找的元素，则比较次数为 1; 在最坏情况下，最后一个元素才是要找的元素，则比较次数为 n。&lt;br /&gt;
+则平均比较次数：(1 + 2+┉+n) /n = (n (n + 1) / 2) /n = (n + 1) / 2。&lt;/p&gt;
+&lt;p&gt;软件测试的准则如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;①所有测试都应追溯到需求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;②严格执行测试计划，排除测试的随意性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;③充分注意测试中的群集现象。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;④程序员应避免检查自己的程序。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⑤穷举测试不可能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⑥妥善保存测试计划、测试用例、出错统计和最终分析报告，为维护提供方便。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;软件测试是保证软件质量的重要手段 &amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;(错误)&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;数据库系统在其内部分为三级模式及两级映射，三级模式即概念模式、内模式和外模式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;概念模式 (逻辑模式) 是数据库系统中全局数据逻辑结构的描述，是全体用户公共数据视图。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;外模式也称子模式或者用户模式，是用户的数据视图，&lt;/strong&gt; 也就是用户所能够看见和使用的局部数据的逻辑结构和特征的描述，是与某一应用有关的数据的逻辑表示。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;内模式又称物理模式，是数据物理结构和存储方式的描述，是数据在数据库内部的表示方式。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;关系数据库中的关系是要满足一定要求的，满足不同程度要求的为不同的范式。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;满足最低要求的叫第一范式，简称 1NF。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当方法遇到异常又不知如何处理时，正确的做法是 &lt;strong&gt;声明抛出异常&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FlowLayout 是 Panel 和 Applet 的默认布局管理器。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;构件在容器中的放置规律是从上到下、从左到右进行。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;BorderLayout 是 Window、Frame 和 Dialog 默认布局管理器。&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;BorderLayout 布局管理器把容器分成 5 个区域：North、South、East、West 和 Center, 每个区域只能放置一个构件。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实现 Runnable, 线程代码存在接口的子类的 run 方法。线程开始是调用 start () 方法，&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applet 运行时，首先由浏览器调用 init () 方法，通知该 Applet 已经被加载到浏览器中，使 Applet 执行一些基本的初始化。main () 方法不是必须的，可以没有，Applet 可以正常编译和运行。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;算法设计不仅要考虑计算结果的正确性，还要考虑算法的时间复杂度和空间复杂度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224213931939.png&#34; alt=&#34;image-20211224213931939&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;在栈中，通常用指针 top 来指示栈顶的位置，用指针 bottom 指向栈底。&lt;br /&gt;
+栈顶指针 top 动态反应了栈中元素的变化情况。&lt;br /&gt;
+在循环队列中，队头指针和队尾指针的动态变化决定队列的长度。&lt;br /&gt;
+链式存储结构中，各数据结点的存储序号是不连续的，并且各结点在存储空间中的位置关系与逻辑关系也不一致，故头指针和尾指针或栈顶指针无法决定链表长度。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224214240697.png&#34; alt=&#34;image-20211224214240697&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224214352048.png&#34; alt=&#34;image-20211224214352048&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;设树的结点数为 m, 度为 3 的结点数为 n, 则度为 1 的结点数为 m - n - 5, 根据树中的结点数 = 树中所有结点的度之和 + 1, 得 3×n + 1×(m - n - 5) + 5×0 + 1 = m, 则 n = 2。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;m   n  m-n-5   m = 3xn+1x(m-n-5)+5x0+1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;堆的定义： &lt;strong&gt;n 个元素的序列 (h1, h2, …hn), 当且仅当 hi≤h2i 且 hi≤h2i + 1 时为小顶堆，当且仅当 hi≥h2i 且 hi≥h2i + 1 时为大顶堆&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;软件设计阶段产生的文档有概要设计说明书、详细设计说明书和测试计划初稿；数据流程图、数据字典和需求规格说明书是需求分析阶段产生的；软件确认测试计划属于软件测试阶段的文档。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不可以作为类中成员方法的修饰符的是&lt;strong&gt; const&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;amp;&amp;amp; 具有短路作用，当第一个判断条件结果为 false 就会终止判断。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224223704669.png&#34; alt=&#34;image-20211224223704669&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;3 3&lt;/p&gt;
+&lt;p&gt;若希望一个类不能有子类，那么在定义这个类时使用关键字&lt;strong&gt; final&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;System.out 输出流、System.in 输入流、System.err 错误输出流&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;线程实现通常有两种方法：一种是继承 Thread 类，另一种是实现 Runnable 接口。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;一、extends Thread ,    Test3&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224225049378.png&#34; alt=&#34;image-20211224225049378&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;二、&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224225226184.png&#34; alt=&#34;image-20211224225226184&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;private, synchronized&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211224225033487.png&#34; alt=&#34;image-20211224225033487&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;对类进行并发控制，需用私有属性来进行定义变量，用锁将方法锁起来，这样就不会出现并发出现异常情况&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applet 可以显示 Swing 组件，Applet 的主类可以定义为 Applet 类或 JApplet 类的子类，Applet 支持多线程。&lt;/strong&gt;&lt;/p&gt;
+</content>
+        <updated>2022-01-23T01:57:22.726Z</updated>
+    </entry>
+    <entry>
+        <id>http://myblog.com/2022/01/23/computer-network/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</id>
         <title>计算机系统组成</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/23/computer-network/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/"/>
         <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
@@ -116,9 +357,9 @@
         <updated>2022-01-08T11:57:41.538Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/algorithm/test/</id>
+        <id>http://myblog.com/2022/01/08/algorithm/leetCode/test/</id>
         <title>算法测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/algorithm/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/algorithm/leetCode/test/"/>
         <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -677,9 +918,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:39:18.575Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+        <id>http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
         <title>操作系统</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
