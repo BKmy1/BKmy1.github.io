@@ -8,7 +8,7 @@
     <author>
       <name>My</name>
     </author>
-    <updated>2022-01-08T11:57:41.538Z</updated>
+    <updated>2022-01-23T01:52:07.932Z</updated>
     <category term="Java" />
     <category term="计算机网络" />
     <category term="JavaScript" />
@@ -17,6 +17,89 @@
     <category term="大数据" />
     <category term="机器学习" />
     <category term="深度学习" />
+    <entry>
+        <id>http://myblog.com/2022/01/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</id>
+        <title>计算机系统组成</title>
+        <link rel="alternate" href="http://myblog.com/2022/01/23/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/CSS/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/"/>
+        <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202118632.png&#34; alt=&#34;image-20211230202118632&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202432412.png&#34; alt=&#34;image-20211230202432412&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230203350935.png&#34; alt=&#34;image-20211230203350935&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230203601108.png&#34; alt=&#34;image-20211230203601108&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-进程同步练习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-进程同步练习&#34;&gt;#&lt;/a&gt; 4、进程同步练习&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果 3 个进程共享一个互斥段，每次最多可以允许 2 个进程进入互斥段，则信号量的变化范围是 &lt;strong&gt;2、1、0、-1&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在对记录型信号量的 P 操作的定义中，当信号量的值&lt;strong&gt;小于 0&lt;/strong&gt; 时，执行 P 操作的进程变为阻塞状态。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若记录型信号量 S 的初值是 3，则当前值为 1 时表示有&lt;strong&gt; 0 个&lt;/strong&gt;阻塞等待进程。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;设与某资源相关联的信号量初值为 3，当前值为 1，若 M 表示该资源的可用个数，N 表示等待资源的进程数，则 M、N 分别是&lt;strong&gt; 1、0&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;两个旅行社甲和乙为旅客到某航空公司订飞机票，形成互斥资源的是&lt;strong&gt;数据&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;从下面对临界区的论述中，选出一条正确的论述。&lt;strong&gt;临界区是指进程中访问临界资源的那段代码&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进程 A 和 B 共享同一临界资源，并且进程 A 正处于对应的临界区内执行。请从下列描述中选择正确的描述。&lt;strong&gt;进程 A 的执行能被中断，而且只要 B 进程就绪，就可以将 CPU 调度给 B 进程。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;若记录型信号量 S 的初值为 15，当前值为 - 15，则表示有&lt;strong&gt; 15&lt;/strong&gt; 个等待进程。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在 9 个生产者，5 个消费者，共享容量为 7 的缓冲区的生产者 - 消费者问题中。互斥使用缓冲区的信号量 S 的初值为&lt;strong&gt; 1&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进程并发地在处理机上执行时，&lt;strong&gt;进程之间可能具有交往，也可能无关&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在操作系统中，P、V 操作是一种&lt;strong&gt;进程低级通信原语。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;记录型信号量在使用过程中存在” 忙等 “现象。&lt;strong&gt;对&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;进程的前趋图中的各个结点之间存在同步关系，也存在互斥关系。&lt;strong&gt;对&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;管程是进程的一部分，控制进程的同步与运行。&lt;strong&gt;对&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对临界资源，应采用互斥访问方式来实现共享。&lt;strong&gt;错&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;临界区是指进程中用于实现进程互斥的那段代码。&lt;strong&gt;对&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;经典的读者 - 写者问题只有进程互斥，不存在进程同步。&lt;strong&gt;错&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用 P、V 操作后，可以防止系统出现死锁。&lt;strong&gt;错&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在利用信号量实现进程互斥时，应将&lt;strong&gt;临界区&lt;/strong&gt;置于&lt;strong&gt; P 操作&lt;/strong&gt;和&lt;strong&gt; V 操作&lt;/strong&gt;之间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15 个进程共享同一程序段，而每次最多允许 4 个进程进入该程序段，若用 P、V 操作同步机制，则记录型信号量 S 的取值范围为 **-11 到 4**&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;对每个进程中访问&lt;strong&gt;共享资源&lt;/strong&gt;的那段代码称为临界区&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;计算机系统中，一次仅允许一个进程使用的资源，称为&lt;strong&gt;临界资源&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2022-01-23T01:52:07.932Z</updated>
+    </entry>
     <entry>
         <id>http://myblog.com/2022/01/08/computer-science/Android/Android/</id>
         <title>Android使用</title>
@@ -33,9 +116,9 @@
         <updated>2022-01-08T11:57:41.538Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/%E7%AE%97%E6%B3%95/test/</id>
+        <id>http://myblog.com/2022/01/08/algorithm/test/</id>
         <title>算法测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/%E7%AE%97%E6%B3%95/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/algorithm/test/"/>
         <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -594,9 +677,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:39:18.575Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+        <id>http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
         <title>操作系统</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
