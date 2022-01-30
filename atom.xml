@@ -8,7 +8,7 @@
     <author>
       <name>My</name>
     </author>
-    <updated>2022-01-30T07:00:50.582Z</updated>
+    <updated>2022-01-30T08:04:00.000Z</updated>
     <category term="Java" />
     <category term="计算机网络" />
     <category term="JavaScript" />
@@ -17,6 +17,17 @@
     <category term="大数据" />
     <category term="机器学习" />
     <category term="深度学习" />
+    <entry>
+        <id>http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%95-1/</id>
+        <title>admin 测试</title>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%95-1/"/>
+        <content type="html">&lt;h1 id=&#34;猜一下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#猜一下&#34;&gt;#&lt;/a&gt; 猜一下&lt;/h1&gt;
+&lt;p&gt;我测试一下&lt;/p&gt;
+</content>
+        <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+        <category term="Java" scheme="http://myblog.com/categories/computer-science/Java/" />
+        <updated>2022-01-30T08:04:00.000Z</updated>
+    </entry>
     <entry>
         <id>http://myblog.com/2022/01/30/util/idea/test/</id>
         <title>idea工具 测试</title>
