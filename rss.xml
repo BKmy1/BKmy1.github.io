@@ -10,8 +10,8 @@
         </author>
         <description>欢迎来到我的空间，在这里你能读到我个人读书笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 30 Jan 2022 14:34:00 +0800</pubDate>
-        <lastBuildDate>Sun, 30 Jan 2022 14:34:00 +0800</lastBuildDate>
+        <pubDate>Sun, 30 Jan 2022 15:00:50 +0800</pubDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:00:50 +0800</lastBuildDate>
         <category term="Java" />
         <category term="计算机网络" />
         <category term="JavaScript" />
@@ -20,6 +20,86 @@
         <category term="大数据" />
         <category term="机器学习" />
         <category term="深度学习" />
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/util/idea/test/</guid>
+            <title>idea工具 测试</title>
+            <link>http://myblog.com/2022/01/30/util/idea/test/</link>
+            <category term="开发工具" scheme="http://myblog.com/categories/util/" />
+            <category term="idea" scheme="http://myblog.com/categories/util/idea/" />
+            <pubDate>Sun, 30 Jan 2022 15:00:50 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;idea开发&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#idea开发&#34;&gt;#&lt;/a&gt; idea 开发&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可以多人共同协作开发多个项目&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;优势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#优势&#34;&gt;#&lt;/a&gt; 优势&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;简单，明了&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/util/android%20studio/test/</guid>
+            <title>android studio 测试</title>
+            <link>http://myblog.com/2022/01/30/util/android%20studio/test/</link>
+            <category term="开发工具" scheme="http://myblog.com/categories/util/" />
+            <category term="android-studio" scheme="http://myblog.com/categories/util/android-studio/" />
+            <pubDate>Sun, 30 Jan 2022 14:58:03 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;android-studio&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#android-studio&#34;&gt;#&lt;/a&gt; android studio&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可以开发移动端 app&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;使用教程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#使用教程&#34;&gt;#&lt;/a&gt; 使用教程&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;慢慢来&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/computer-science/Vue/test/</guid>
+            <title>Vue 测试</title>
+            <link>http://myblog.com/2022/01/30/computer-science/Vue/test/</link>
+            <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+            <category term="Vue" scheme="http://myblog.com/categories/computer-science/Vue/" />
+            <pubDate>Sun, 30 Jan 2022 14:56:14 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;const vm = new Vue({&lt;br /&gt;
+el: &#39;root&#39;,&lt;br /&gt;
+data: {&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;#125;,
+methods: &amp;#123;
+    
+&amp;#125;,
+computed: &amp;#123;
+    
+&amp;#125;,
+watch: &amp;#123;
+    
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;})&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/computer-science/JavaScript/test/</guid>
+            <title>JS 测试</title>
+            <link>http://myblog.com/2022/01/30/computer-science/JavaScript/test/</link>
+            <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+            <category term="JavaScript" scheme="http://myblog.com/categories/computer-science/JavaScript/" />
+            <pubDate>Sun, 30 Jan 2022 14:54:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p name:张三,age:20=&#34;&#34;&gt;let a = 10&lt;br /&gt;
+const p =&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/computer-science/C++/test/</guid>
+            <title>C++ 测试</title>
+            <link>http://myblog.com/2022/01/30/computer-science/C++/test/</link>
+            <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+            <category term="C++" scheme="http://myblog.com/categories/computer-science/C/" />
+            <pubDate>Sun, 30 Jan 2022 14:52:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;cin &amp;gt;&amp;gt; a &amp;gt;&amp;gt; b;&lt;br /&gt;
+cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; b &amp;lt;&amp;lt; endl;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://myblog.com/2022/01/30/book-essay/article/test/</guid>
             <title>《理想国》</title>
