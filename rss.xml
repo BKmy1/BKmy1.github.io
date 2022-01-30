@@ -10,8 +10,8 @@
         </author>
         <description>欢迎来到我的空间，在这里你能读到我个人读书笔记</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 23 Jan 2022 09:57:22 +0800</pubDate>
-        <lastBuildDate>Sun, 23 Jan 2022 09:57:22 +0800</lastBuildDate>
+        <pubDate>Sun, 30 Jan 2022 14:34:00 +0800</pubDate>
+        <lastBuildDate>Sun, 30 Jan 2022 14:34:00 +0800</lastBuildDate>
         <category term="Java" />
         <category term="计算机网络" />
         <category term="JavaScript" />
@@ -20,6 +20,28 @@
         <category term="大数据" />
         <category term="机器学习" />
         <category term="深度学习" />
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/book-essay/article/test/</guid>
+            <title>《理想国》</title>
+            <link>http://myblog.com/2022/01/30/book-essay/article/test/</link>
+            <category term="读书笔记" scheme="http://myblog.com/categories/book-essay/" />
+            <category term="article" scheme="http://myblog.com/categories/book-essay/article/" />
+            <pubDate>Sun, 30 Jan 2022 14:34:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;起源于2018年进入b站，关注罗翔老师后，&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/book-essay/poem/test/</guid>
+            <title>千里香</title>
+            <link>http://myblog.com/2022/01/30/book-essay/poem/test/</link>
+            <category term="读书笔记" scheme="http://myblog.com/categories/book-essay/" />
+            <category term="poem" scheme="http://myblog.com/categories/book-essay/poem/" />
+            <pubDate>Sun, 30 Jan 2022 10:43:30 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;家乡的乡火气，是大城市所不具有的。&lt;/p&gt;
+&lt;/blockquote&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://myblog.com/2022/01/23/algorithm/acwing/test/</guid>
             <title>算法测试</title>
