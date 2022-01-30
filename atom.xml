@@ -8,7 +8,7 @@
     <author>
       <name>My</name>
     </author>
-    <updated>2022-01-30T07:00:50.582Z</updated>
+    <updated>2022-01-30T08:40:00.000Z</updated>
     <category term="Java" />
     <category term="计算机网络" />
     <category term="JavaScript" />
@@ -17,6 +17,23 @@
     <category term="大数据" />
     <category term="机器学习" />
     <category term="深度学习" />
+    <entry>
+        <id>http://myblog.com/2022/01/30/lastest-%E6%B5%8B%E8%AF%95/</id>
+        <title>lastest 测试</title>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/lastest-%E6%B5%8B%E8%AF%95/"/>
+        <content type="html">&lt;h1 id=&#34;测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#测试&#34;&gt;#&lt;/a&gt; 测试&lt;/h1&gt;
+&lt;p&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String args[])&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   	&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;   &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;图片测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图片测试&#34;&gt;#&lt;/a&gt; 图片测试&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;/images/pasted-0.png&#34; alt=&#34;filename already exists, renamed&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;样式测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#样式测试&#34;&gt;#&lt;/a&gt; 样式测试&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;Hello World&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="计算机科学" scheme="http://myblog.com/categories/computer-science/" />
+        <category term="Java" scheme="http://myblog.com/categories/computer-science/Java/" />
+        <updated>2022-01-30T08:40:00.000Z</updated>
+    </entry>
     <entry>
         <id>http://myblog.com/2022/01/30/util/idea/test/</id>
         <title>idea工具 测试</title>
