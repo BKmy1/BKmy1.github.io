@@ -7,13 +7,13 @@
     "home_page_url": "http://myblog.com",
     "items": [
         {
-            "id": "http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%95-1/",
-            "url": "http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%95-1/",
-            "title": "admin 测试",
-            "date_published": "2022-01-30T08:04:00.000Z",
-            "content_html": "<h1 id=\"猜一下\"><a class=\"anchor\" href=\"#猜一下\">#</a> 猜一下</h1>\n<p>我测试一下</p>\n",
+            "id": "http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%952/",
+            "url": "http://myblog.com/2022/01/30/admin-%E6%B5%8B%E8%AF%952/",
+            "title": "admin 测试2",
+            "date_published": "2022-01-30T08:10:00.000Z",
+            "content_html": "<h1 id=\"测试\"><a class=\"anchor\" href=\"#测试\">#</a> 测试</h1>\n<p>Java<br />\nJava<br />\n<figure class=\"highlight java\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"keyword\">import</span> java.io;</span><br></pre></td></tr></table></figure></p>\n",
             "tags": [
-                "计算机科学",
+                "computer_science",
                 "Java"
             ]
         },
