@@ -35,9 +35,9 @@
         <updated>2022-01-30T07:00:50.582Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/30/util/android%20studio/test/</id>
+        <id>http://myblog.com/2022/01/30/util/android-studio/test/</id>
         <title>android studio 测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/30/util/android%20studio/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/util/android-studio/test/"/>
         <content type="html">&lt;h1 id=&#34;android-studio&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#android-studio&#34;&gt;#&lt;/a&gt; android studio&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;可以开发移动端 app&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;/ul&gt;
 </content>
         <category term="开发工具" scheme="http://myblog.com/categories/util/" />
-        <category term="android-studio" scheme="http://myblog.com/categories/util/android-studio/" />
+        <category term="android studio" scheme="http://myblog.com/categories/util/android-studio/" />
         <updated>2022-01-30T06:58:03.226Z</updated>
     </entry>
     <entry>

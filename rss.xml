@@ -38,11 +38,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://myblog.com/2022/01/30/util/android%20studio/test/</guid>
+            <guid isPermalink="true">http://myblog.com/2022/01/30/util/android-studio/test/</guid>
             <title>android studio 测试</title>
-            <link>http://myblog.com/2022/01/30/util/android%20studio/test/</link>
+            <link>http://myblog.com/2022/01/30/util/android-studio/test/</link>
             <category term="开发工具" scheme="http://myblog.com/categories/util/" />
-            <category term="android-studio" scheme="http://myblog.com/categories/util/android-studio/" />
+            <category term="android studio" scheme="http://myblog.com/categories/util/android-studio/" />
             <pubDate>Sun, 30 Jan 2022 14:58:03 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;android-studio&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#android-studio&#34;&gt;#&lt;/a&gt; android studio&lt;/h1&gt;
 &lt;blockquote&gt;

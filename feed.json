@@ -18,14 +18,14 @@
             ]
         },
         {
-            "id": "http://myblog.com/2022/01/30/util/android%20studio/test/",
-            "url": "http://myblog.com/2022/01/30/util/android%20studio/test/",
+            "id": "http://myblog.com/2022/01/30/util/android-studio/test/",
+            "url": "http://myblog.com/2022/01/30/util/android-studio/test/",
             "title": "android studio 测试",
             "date_published": "2022-01-30T06:58:03.226Z",
             "content_html": "<h1 id=\"android-studio\"><a class=\"anchor\" href=\"#android-studio\">#</a> android studio</h1>\n<blockquote>\n<p>可以开发移动端 app</p>\n</blockquote>\n<h1 id=\"使用教程\"><a class=\"anchor\" href=\"#使用教程\">#</a> 使用教程</h1>\n<ul>\n<li>慢慢来</li>\n</ul>\n",
             "tags": [
                 "开发工具",
-                "android-studio"
+                "android studio"
             ]
         },
         {
