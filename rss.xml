@@ -28,7 +28,7 @@
             <category term="poem" scheme="http://myblog.com/categories/book-essay/poem/" />
             <pubDate>Mon, 31 Jan 2022 20:27:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;图案列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#图案列表&#34;&gt;#&lt;/a&gt; 图案列表&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://i.postimg.cc/1gdhVP3f/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p class=&#34;gallery&#34; data-height=&#34;120&#34;&gt;&lt;img data-src=&#34;https://i.postimg.cc/1gdhVP3f/1.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://i.postimg.cc/212fmnpd/2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://i.postimg.cc/4YJTrB0N/3.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://i.postimg.cc/xqMD8wD1/4.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
