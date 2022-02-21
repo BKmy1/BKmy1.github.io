@@ -8,7 +8,7 @@
     <author>
       <name>My</name>
     </author>
-    <updated>2022-01-31T12:27:00.000Z</updated>
+    <updated>2022-02-21T12:53:38.679Z</updated>
     <category term="Java" />
     <category term="计算机网络" />
     <category term="JavaScript" />
@@ -17,6 +17,31 @@
     <category term="大数据" />
     <category term="机器学习" />
     <category term="深度学习" />
+    <entry>
+        <id>http://myblog.com/2022/02/21/about/index/</id>
+        <title>关于</title>
+        <link rel="alternate" href="http://myblog.com/2022/02/21/about/index/"/>
+        <content type="html">&lt;h1 id=&#34;开始时间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开始时间&#34;&gt;#&lt;/a&gt; 开始时间&lt;/h1&gt;
+&lt;p&gt;2022.1.5&lt;/p&gt;
+&lt;h1 id=&#34;结束时间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结束时间&#34;&gt;#&lt;/a&gt; 结束时间&lt;/h1&gt;
+&lt;p&gt;~ 至今&lt;/p&gt;
+&lt;h1 id=&#34;要做的事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#要做的事&#34;&gt;#&lt;/a&gt; 要做的事&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;四六级考试&lt;/li&gt;
+&lt;li&gt;考研&lt;/li&gt;
+&lt;li&gt;教师资格证&lt;/li&gt;
+&lt;li&gt;面试&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;全栈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;未来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#未来&#34;&gt;#&lt;/a&gt; 未来&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;多看书&lt;/li&gt;
+&lt;li&gt;多看英语文章&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <updated>2022-02-21T12:53:38.679Z</updated>
+    </entry>
     <entry>
         <id>http://myblog.com/2022/01/31/%E7%B2%BE%E7%BE%8E%E5%9B%BE%E7%89%87/</id>
         <title>精美图片</title>

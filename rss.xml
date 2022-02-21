@@ -10,8 +10,8 @@
         </author>
         <description>欢迎来到我的空间，在这里你能读到我个人读书笔记</description>
         <language>zh-CN</language>
-        <pubDate>Mon, 31 Jan 2022 20:27:00 +0800</pubDate>
-        <lastBuildDate>Mon, 31 Jan 2022 20:27:00 +0800</lastBuildDate>
+        <pubDate>Mon, 21 Feb 2022 20:53:38 +0800</pubDate>
+        <lastBuildDate>Mon, 21 Feb 2022 20:53:38 +0800</lastBuildDate>
         <category term="Java" />
         <category term="计算机网络" />
         <category term="JavaScript" />
@@ -20,6 +20,31 @@
         <category term="大数据" />
         <category term="机器学习" />
         <category term="深度学习" />
+        <item>
+            <guid isPermalink="true">http://myblog.com/2022/02/21/about/index/</guid>
+            <title>关于</title>
+            <link>http://myblog.com/2022/02/21/about/index/</link>
+            <pubDate>Mon, 21 Feb 2022 20:53:38 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;开始时间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开始时间&#34;&gt;#&lt;/a&gt; 开始时间&lt;/h1&gt;
+&lt;p&gt;2022.1.5&lt;/p&gt;
+&lt;h1 id=&#34;结束时间&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#结束时间&#34;&gt;#&lt;/a&gt; 结束时间&lt;/h1&gt;
+&lt;p&gt;~ 至今&lt;/p&gt;
+&lt;h1 id=&#34;要做的事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#要做的事&#34;&gt;#&lt;/a&gt; 要做的事&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;四六级考试&lt;/li&gt;
+&lt;li&gt;考研&lt;/li&gt;
+&lt;li&gt;教师资格证&lt;/li&gt;
+&lt;li&gt;面试&lt;/li&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;全栈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;未来&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#未来&#34;&gt;#&lt;/a&gt; 未来&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;多看书&lt;/li&gt;
+&lt;li&gt;多看英语文章&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://myblog.com/2022/01/31/%E7%B2%BE%E7%BE%8E%E5%9B%BE%E7%89%87/</guid>
             <title>精美图片</title>
