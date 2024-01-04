@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://myblog.com</id>
-    <title>计算机Web应用开发全栈</title>
-    <subtitle></subtitle>
+    <title>Computer Science</title>
+    <subtitle>cs</subtitle>
     <icon>http://myblog.com/images/favicon.ico</icon>
     <link href="http://myblog.com" />
     <author>
-      <name>My</name>
+      <name>myycy</name>
     </author>
     <updated>2022-01-31T12:27:00.000Z</updated>
-    <category term="Java" />
+    <category term="java" />
     <category term="计算机网络" />
-    <category term="JavaScript" />
-    <category term="Python" />
-    <category term="Android" />
+    <category term="javaScript" />
+    <category term="python" />
+    <category term="android" />
     <category term="大数据" />
     <category term="机器学习" />
     <category term="深度学习" />
@@ -610,9 +610,9 @@
         <updated>2022-01-30T06:58:03.226Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/30/computer-science/Vue/test/</id>
+        <id>http://myblog.com/2022/01/30/computer-science/computer-language/Vue/test/</id>
         <title>Vue 测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/Vue/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/computer-language/Vue/test/"/>
         <content type="html">&lt;p&gt;const vm = new Vue({&lt;br /&gt;
 el: &#39;root&#39;,&lt;br /&gt;
 data: {&lt;/p&gt;
@@ -634,9 +634,9 @@ watch: &amp;#123;
         <updated>2022-01-30T06:56:14.961Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/30/computer-science/JavaScript/test/</id>
+        <id>http://myblog.com/2022/01/30/computer-science/computer-language/JavaScript/test/</id>
         <title>JS 测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/JavaScript/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/computer-language/JavaScript/test/"/>
         <content type="html">&lt;p name:张三,age:20=&#34;&#34;&gt;let a = 10&lt;br /&gt;
 const p =&lt;/p&gt;
 </content>
@@ -645,9 +645,9 @@ const p =&lt;/p&gt;
         <updated>2022-01-30T06:54:39.881Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/30/computer-science/C++/test/</id>
+        <id>http://myblog.com/2022/01/30/computer-science/computer-language/C++/test/</id>
         <title>C++ 测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/C++/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/30/computer-science/computer-language/C++/test/"/>
         <content type="html">&lt;p&gt;cin &amp;gt;&amp;gt; a &amp;gt;&amp;gt; b;&lt;br /&gt;
 cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; b &amp;lt;&amp;lt; endl;&lt;/p&gt;
 </content>
@@ -678,9 +678,9 @@ cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; b &amp;lt;&amp;lt; endl;&lt;/p&gt;
         <updated>2022-01-30T02:43:30.379Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/23/algorithm/acwing/test/</id>
+        <id>http://myblog.com/2022/01/23/computer-science/algorithm/acwing/test/</id>
         <title>算法测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/23/algorithm/acwing/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/23/computer-science/algorithm/acwing/test/"/>
         <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -921,9 +921,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-23T01:57:22.726Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/23/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</id>
+        <id>http://myblog.com/2022/01/23/computer-science/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/</id>
         <title>计算机系统组成</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/23/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/23/computer-science/computer-network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%BB%84%E6%88%90/"/>
         <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
@@ -1006,9 +1006,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-23T01:52:07.932Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/computer-science/Android/Android/</id>
+        <id>http://myblog.com/2022/01/08/computer-science/computer-language/Android/Android/</id>
         <title>Android使用</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/Android/Android/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/computer-language/Android/Android/"/>
         <content type="html">&lt;h2 id=&#34;android&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#android&#34;&gt;#&lt;/a&gt; Android&lt;/h2&gt;
 &lt;p&gt;1. 在 Activity 中使用以下 Java 代码显示 xml 文件中布局的内容&lt;/p&gt;
 &lt;p&gt;setContentView(R.layout.activity_main);&lt;/p&gt;
@@ -1021,9 +1021,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:57:41.538Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/algorithm/leetCode/test/</id>
+        <id>http://myblog.com/2022/01/08/computer-science/algorithm/leetCode/test/</id>
         <title>算法测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/algorithm/leetCode/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/algorithm/leetCode/test/"/>
         <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1264,9 +1264,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:48:55.007Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/computer-science/Python/test/</id>
+        <id>http://myblog.com/2022/01/08/computer-science/computer-language/Python/test/</id>
         <title>Python测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/Python/test/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/computer-language/Python/test/"/>
         <content type="html">&lt;h2 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1507,9 +1507,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:48:42.228Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/computer-science/Java/%E7%BB%83%E4%B9%A0%E4%B8%80/</id>
+        <id>http://myblog.com/2022/01/08/computer-science/computer-language/Java/%E7%BB%83%E4%B9%A0%E4%B8%80/</id>
         <title>Java测试</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/Java/%E7%BB%83%E4%B9%A0%E4%B8%80/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/computer-language/Java/%E7%BB%83%E4%B9%A0%E4%B8%80/"/>
         <content type="html">&lt;h1 id=&#34;练习一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#练习一&#34;&gt;#&lt;/a&gt; 练习一&lt;/h1&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;StaticStuff&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; x &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        x &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; args&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;x = &#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;StaticStuff&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;x&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        x &lt;span class=&#34;token operator&#34;&gt;/=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
 &lt;li&gt;先执行所有的静态代码块，再执行主方法，得到结果 &amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;x = 5；&amp;lt;/font&amp;gt;&lt;/li&gt;
@@ -1582,9 +1582,9 @@ ObjectInput 扩展了 该接口，以包含对象、数组和 String 的输出�
         <updated>2022-01-08T11:39:18.575Z</updated>
     </entry>
     <entry>
-        <id>http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+        <id>http://myblog.com/2022/01/08/computer-science/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
         <title>操作系统</title>
-        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+        <link rel="alternate" href="http://myblog.com/2022/01/08/computer-science/computer-network/OS/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
         <content type="html">&lt;h1 id=&#34;操作系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#操作系统&#34;&gt;#&lt;/a&gt; 操作系统&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;第一章、&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5Cadmin%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20211230202016102.png&#34; alt=&#34;image-20211230202016102&#34; /&gt;&lt;/p&gt;
